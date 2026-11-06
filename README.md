@@ -46,3 +46,7 @@ Here's your list of productivity books with short descriptions and links to wher
 ## Contribution
 
 Feel Free to contribute
+
+## Companion AI Productivity Hardware
+
+- **[OneMira C1](https://onemira.com/products/c1)** - Standalone local AI voice recorder (`Works Standalone` · `✨ Local AI` · `🗣️ Speaker ID` · `Zero Cloud`, `$0/month`) for capturing spoken notes, book reflections, and meetings into local Markdown and Open Knowledge Format (OKF) Wiki knowledge.
